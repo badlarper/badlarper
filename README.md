@@ -9,5 +9,5 @@ Welcome to this shit.
 - C, ASM, Python, and I dont like Rust
 
 ### I used to be a skid, but now I'm a larper!
-[![Visitor Count](https://counter.theindian.dev/in/@badlarper?theme=booru-jaypee)](https://counter.theindiandev.in/@:badlarper?theme=booru-jaypee)
+![Visitor Count](https://counter.theindiandev.in/@:badlarper?theme=booru-jaypee)
 
